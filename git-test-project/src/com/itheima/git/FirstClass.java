@@ -13,5 +13,8 @@ public class FirstClass {
         int i=0;
         i+=10;
 
+    };
+    public  void test1(){
+        System.out.println("你卤味");
     }
 }

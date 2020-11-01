@@ -7,11 +7,12 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
 
-    }
+    }//你卤味
 
     public void test(){
         int i=0;
         i+=10;
+        System.out.println(i);
 
     };
     public  void test1(){
